@@ -1,22 +1,21 @@
-## About Me
-
 SaaS事業のCTOをしています。
 
 良いエンジニアであるためには、市場と事業と顧客の理解が必要で、良い事業家であるためには技術の理解が必要だと考えています。
 
 **事業で勝てるエンジニア組織と開発基盤をつくれます。**
 
-## Contact for Speaking & Writing
-
-執筆や登壇のご依頼は、XのDMからお気軽にご連絡ください。
+> [!TIP]
+> 執筆や登壇のご依頼は、XのDMからお気軽にご連絡ください。  
+> 組織、採用、育成、新卒就活のコツから、企画、仕様、設計、実装、コミュニケーション、キャリアのコツまで言語化をしています。  
+> 日々のXのポストをご覧ください。
 
 <div align="center">
   <a href="https://x.com/naro143" target="_blank">
-    <img src="https://img.shields.io/badge/X-@naro143-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/@naro143-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
-## Past Talks
+## 登壇
 
 <table>
   <tr>
@@ -34,7 +33,7 @@ SaaS事業のCTOをしています。
   </tr>
 </table>
 
-## Featured Articles
+## 記事
 
 <table>
   <tr>
